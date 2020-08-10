@@ -1,0 +1,38 @@
+[
+	{
+	  "id": 1,
+	  "icon": "DHW",
+	  "title": "Türtechnik",
+	  "display": true
+	},
+	{
+	  "id": 2,
+	  "icon": "ENS",
+	  "title": "Automatische Türsysteme",
+	  "display": true
+	},
+	{
+	  "id": 3,
+	  "icon": "EAD",
+	  "title": "Systemlösungen Zutritt und Zeit",
+	  "display": true
+	},
+	{
+	  "id": 4,
+	  "icon": "MKS",
+	  "title": "Mechanische Schließsysteme",
+	  "display": true
+	},
+	{
+	  "id": 5,
+	  "icon": "LGS",
+	  "title": "Hotelzutrittsysteme",
+	  "display": false
+	},
+	{
+	  "id": 6,
+	  "icon": "SAL",
+	  "title": "Hochsicherheitsschlösser",
+	  "display": false
+	}
+]

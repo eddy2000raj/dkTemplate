@@ -1,0 +1,17 @@
+// map the breakpoints
+$breakpoints: (
+  "xs"  	: 0,
+  "sm"		: 24em,
+  "md"		: 48em,
+  "lg"		: 75em
+) !default;
+
+// define the grid
+$grid-columns	   		: 12 !default;
+$container-width 		: 1200px !default;
+$calc			       	: (100% / $grid-columns) !default;
+
+// define the colours
+$dormablue				: #003594;
+$dormagrey				: #EEE;
+$dormablack				: #484848;

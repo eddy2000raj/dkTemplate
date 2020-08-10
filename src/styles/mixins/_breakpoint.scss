@@ -1,0 +1,13 @@
+// breakpoint mixin
+@mixin breakpoint($breakpoint) {
+
+  // if key is in map
+  @if map-has-key($breakpoints, $breakpoint) {
+
+    // set media query
+    @media (min-width: map-get($breakpoints, $breakpoint)) {
+      @content;
+    }
+  }
+
+}
